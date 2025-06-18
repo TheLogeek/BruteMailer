@@ -194,7 +194,7 @@ ____             _       __  __       _ _
         print(f"{GREEN}[✓] The generated passwords have been saved as 'passwords_file.txt' in your curreent working directory{RESET}")
         time.sleep(4)
         print(lb)
-        print("Thanks for using BruteMailer,don't forget to follow me on github(SoloTech01) for more awesome tools...")
+        print("Thanks for using BruteMailer,don't forget to follow me on github(TheLogeek) for more awesome tools...")
         print(RESET)
         print("\n")
         time.sleep(4)
@@ -224,7 +224,7 @@ ____             _       __  __       _ _
 [+] Tool name: BruteMailer
 [+] Author: Solomon Adenuga (Logeek)
 [+] Version: 1.1
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsapp: +2348023710562
 """)
         print("******" * 10)
@@ -262,7 +262,7 @@ ____             _       __  __       _ _
                 os.system("""
                         cd -
                         rm -rf BruteMailer
-                        git clone https://github.com/SoloTech01/BruteMailer
+                        git clone https://github.com/TheLogeek/BruteMailer
                         cd BruteMailer
                         python3 brutemailer.py
                         """)
