@@ -222,7 +222,7 @@ ____             _       __  __       _ _
         print(f"{'******' * 10} {YELLOW}")
         print("""
 [+] Tool name: BruteMailer
-[+] Author: Solomon Adenuga
+[+] Author: Solomon Adenuga (Logeek)
 [+] Version: 1.1
 [+] Github: https://github.com/SoloTech01
 [+] Whatsapp: +2348023710562
